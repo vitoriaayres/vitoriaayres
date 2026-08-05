@@ -14,7 +14,7 @@
   <rect class="bg" width="100%" height="100%"/>
 
   <!-- Coluna da Esquerda: Imagem PNG do ASCII -->
-  <image href="ascii.png" x="20" y="20" width="370" height="380" preserveAspectRatio="xMidYMid meet" />
+  <image href="punpun.png" x="20" y="20" width="370" height="380" preserveAspectRatio="xMidYMid meet" />
 
   <!-- Divisória Vertical -->
   <line x1="410" y1="20" x2="410" y2="400" stroke="#30363d" stroke-width="1"/>
