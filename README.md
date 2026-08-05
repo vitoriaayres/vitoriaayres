@@ -21,7 +21,6 @@
 - <b>Contact & Links</b> ----------------------------------------------
 . <b>LinkedIn:</b> .......................... <a href="https://www.linkedin.com/in/vitoriaayres/">vitoriaayres</a>
 . <b>GitHub:</b> ............................ <a href="https://github.com/vitoriaayres">vitoriaayres</a>
-</pre>
-    </td>
+
   </tr>
 </table>
