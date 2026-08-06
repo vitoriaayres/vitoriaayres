@@ -1,57 +1,110 @@
-<svg fill="none" viewBox="0 0 960 440" width="960" height="440" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .bg { fill: #0d1117; rx: 10px; stroke: #30363d; stroke-width: 1px; }
-    .mono { font-family: 'Fira Code', 'Cascadia Code', 'JetBrains Mono', 'Courier New', Consolas, monospace; }
-    .ascii { font-size: 7px; fill: #c9d1d9; }
-    .title { fill: #58a6ff; font-weight: bold; font-size: 14px; }
-    .label { fill: #79c0ff; font-weight: bold; font-size: 13px; }
-    .value { fill: #c9d1d9; font-size: 13px; }
-    .accent { fill: #7ee787; font-weight: bold; font-size: 13px; }
-    .link { fill: #a5d6ff; font-size: 13px; }
-    .border { fill: #484f58; }
-    .stat-num { fill: #f0883e; font-weight: bold; font-size: 13px; }
-    .stat-label { fill: #8b949e; font-size: 12px; }
-  </style>
-  <rect class="bg" width="100%" height="100%"/>
-  <g class="mono ascii" transform="translate(16, 18)">
-    <text x="0" y="0">[              oaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*         
-          :*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahx       
-         #ahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaha)      
-       vaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaao.    
-     >aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa    
-    )haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaam   
-   oaaaaaaaaaaaaaaaaaaaqwpaaaaaaaaaaaaaaaaaaaaaaaaaaaJ  
-  1aaaaaaaaaaaaaao!              .aaaaaaaaaaaaaaaaaaa   
-  oaaaaaaaaaaao"                    ,haaaaaaaaaaaaaaaa< 
- Xaaaaaaaaaaaa_                      Oaaaaaaaaaaaaaaaaa{
-faaaaaaaaaaaaa+      'l              'ahaaaaaaaaaaaaaat 
- {aaaaaaaaaaaa   mwqqw0^       {_Oaaaaoaaaaaaaaaaaaaaau 
-  jaaaaaaaaaao.UL                   -ahhaaaaaaaaaaaaa*  
-  :hhaaaaaaah.                .       laaaaaaaaaaaaaaj  
-   rhaaaaaaa] ookqQJJw#hL!   U\)UZpdw0zraaaaaaaaaaaa)   
-   .haaaaaahoha ,UrLk*vin;ahaataoko*hO)  aaaaaaaaaaQ    
-     mhaaaaaada.      '  ?z 'a/          aaaaaaaaa{     
-      ,aaaaa  nhcI^^`^:cb.   .a>  .`^.  ]aaaaaaah}      
-        aahh                  ,hh''''.'Laaaaaaaai       
-        aahh'          .      . aaaq`  (aaaaaaaa        
-        baahr      ih  z*aQ  Zhaaaahhh daaaaaaaa        
-         oaaM      x      laaaoaaaaaahhhaaaaaaao        
-          0h#       /      '^"'-aaaaaaaaaaaaaaa,        
-          ;ho      aahha_I+'1.fq~aaaaaaaaaaaaa`         
-           |a+     !ua\..+       waaaaaaaaaJl           
-            Oa.          10b****kaaaaaaaaaa             
-            ,dd{               Xaaahaaaaaal             
-              qdb\        ^ohaaaaa.!haaaaf              
-                aaahv      aaaha'UoIhhhh                
-                 .qhhaY  (-aaaaaoXphhak                              
-]</text>
-    <text x="0" y="7">...</text>
-    <!-- ... -->
-  </g>
-  <line x1="410" y1="18" x2="410" y2="422" stroke="#30363d" stroke-width="1"/>
-  <g class="mono" transform="translate(425, 30)">
-    <text x="0" y="0" class="title">vitoria@ayres <tspan class="border">──────────────────────────────────</tspan></text>
-    <text x="0" y="30" class="label">OS: <tspan class="value" x="130">Fedora / Nobara Linux</tspan></text>
-    <!-- ... resto do painel ... -->
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
+  <title id="title">Vitoria Ayres terminal profile</title>
+  <desc id="desc">A GitHub-dark terminal card with a Punpun ASCII portrait and Vitoria Ayres's AI and machine learning profile.</desc>
+  <defs>
+    <linearGradient id="portrait-tone" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#79c0ff"/>
+      <stop offset="0.48" stop-color="#c9d1d9"/>
+      <stop offset="1" stop-color="#8b949e"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="959" height="439" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <line x1="410" y1="20" x2="410" y2="420" stroke="#30363d"/>
+  <text xml:space="preserve" font-family="Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="5.35" fill="url(#portrait-tone)">
+    <tspan x="18" y="39">████████████████████████                            ░    ░           ░       ████████████████</tspan>
+    <tspan x="18" dy="7.25">███████████████████████                   ░                 ░    ░             ▓█████████████</tspan>
+    <tspan x="18" dy="7.25">██████████████████░            ░                                                ▒████████████</tspan>
+    <tspan x="18" dy="7.25">████████████████░  ░ ░ ░                    ░                                    ▒███████████</tspan>
+    <tspan x="18" dy="7.25">██████████████▓   ░    ░        ░          ░         ░                             ██████████</tspan>
+    <tspan x="18" dy="7.25">█████████████                   ░                  ░                    ░           █████████</tspan>
+    <tspan x="18" dy="7.25">███████████░    ░ ░          ░                 ░       ░ ░         ░                 ████████</tspan>
+    <tspan x="18" dy="7.25">█████████                         ░       ░░                                          ███████</tspan>
+    <tspan x="18" dy="7.25">█████████               ░                               ░                        ░     ██████</tspan>
+    <tspan x="18" dy="7.25">███████ ░                                                     ░                         █████</tspan>
+    <tspan x="18" dy="7.25">█████                                            ░                                       ████</tspan>
+    <tspan x="18" dy="7.25">████░                             ██████████████████    ░                                ████</tspan>
+    <tspan x="18" dy="7.25">████▓                     ░  ████████████████████████████▒          ░   ░            ░  █████</tspan>
+    <tspan x="18" dy="7.25">███                  ░    ██████████████████████████████████░  ░                  ░       ███</tspan>
+    <tspan x="18" dy="7.25">██▓                     ▓████████████████████████████████████▒     ░        ░             ███</tspan>
+    <tspan x="18" dy="7.25">██  ░                   ██████████████████████████████████████                             ▓█</tspan>
+    <tspan x="18" dy="7.25">█                       █████████████████████████████████████▓█                       ░   ▒██</tspan>
+    <tspan x="18" dy="7.25">█▓                 ░    ███████████████████████████████████████░ ░░   ░                   ███</tspan>
+    <tspan x="18" dy="7.25">██▓                     ██████▓░░░░░░░░▓█████████████      ░ ▒██  ░                      ░███</tspan>
+    <tspan x="18" dy="7.25">████                   ▓████░░░░░░▒▓███████████████████▓                           ░     ░▓██</tspan>
+    <tspan x="18" dy="7.25">████  ░                ███░░█████████████████████████████████░    ░     ░          ░     ████</tspan>
+    <tspan x="18" dy="7.25">████  ░  ░            ██▓▓█████████████████████████████████████▒    ░                    ████</tspan>
+    <tspan x="18" dy="7.25">█████ ░              ▓█████████████████████████████▓█████████████     ░               ░ ▒████</tspan>
+    <tspan x="18" dy="7.25">██████            ░  ███▒░          ░▒███████████░ ███████████████ ░              ░    ░█████</tspan>
+    <tspan x="18" dy="7.25">██████              ▒██  █████████████▒ █░   ▓██░     ████████████░                    ██████</tspan>
+    <tspan x="18" dy="7.25">██████ ░                 ███▒▓▓▒░░   ▓█▒░██░      ▓           ░▓████                 ░▒██████</tspan>
+    <tspan x="18" dy="7.25">████████           ░     ███████████░  ████░ ▒░   ▓██▒▒█████████████                ░████████</tspan>
+    <tspan x="18" dy="7.25">█████████▓           ░█  ███████████▓█████░ █████  █████████████████     ░         ░█████████</tspan>
+    <tspan x="18" dy="7.25">███████████         ███▓ ░██████▓▒██████░ ███████▓ ▒█████▓   ░██████              ▓██████████</tspan>
+    <tspan x="18" dy="7.25">████████████░       ████████████▓▒▒▓██████████████   ░▓█████▓█▓▓█▓▒              ████████████</tspan>
+    <tspan x="18" dy="7.25">█████████████▓      ███████████████████████████████    ██████████▒           ░  █████████████</tspan>
+    <tspan x="18" dy="7.25">█████████████       ████████████████████████████████▓    ▓████████             ██████████████</tspan>
+    <tspan x="18" dy="7.25">█████████████       █████████████████████████████████ ░     ░█████             ░█████████████</tspan>
+    <tspan x="18" dy="7.25">█████████████▓   ░   ████████████▓ ███▓    ░█████             ░██▒░    ░      ░░█████████████</tspan>
+    <tspan x="18" dy="7.25">██████████████▒      ██████████░ ▒████████░                 ░   ░           ░  ░█████████████</tspan>
+    <tspan x="18" dy="7.25">███████████████▒     ████████████████████████░   ░  ░          ░     ░         ░█████████████</tspan>
+    <tspan x="18" dy="7.25">████████████████▓    ███████████████████████████████       ░        ░          ██████████████</tspan>
+    <tspan x="18" dy="7.25">██████████████████▓  ████████████░▓████████░░   ░  ░░ ░            ░          ███████████████</tspan>
+    <tspan x="18" dy="7.25">██████████████████▓  ██████████░   ░▒░░░▒ █▒██░▒██ █ ░░        ░             ████████████████</tspan>
+    <tspan x="18" dy="7.25">███████████████████   ██████████      ██████████████████░                  ▓█████████████████</tspan>
+    <tspan x="18" dy="7.25">███████████████████   ███████████░█▒ ▒█████████████████▓░           ░ ░ █████████████████████</tspan>
+    <tspan x="18" dy="7.25">████████████████████░  █████████████████████████████████      ░        ▒█████████████████████</tspan>
+    <tspan x="18" dy="7.25">█████████████████████   █████████████████████▓▒▒▒▓▓███░        ░       ██████████████████████</tspan>
+    <tspan x="18" dy="7.25">█████████████████████    ███████████████████████████▒                 ███████████████████████</tspan>
+    <tspan x="18" dy="7.25">██████████████████████░    ███████████████████████▒      ▒██         ▓███████████████████████</tspan>
+    <tspan x="18" dy="7.25">████████████████████████░░   ░██████████████░    ░      ███          ████████████████████████</tspan>
+    <tspan x="18" dy="7.25">██████████████████████████░      ███████████▓         ███▒░▒      ░██████████████████████████</tspan>
+    <tspan x="18" dy="7.25">████████████████████████████       ▓█████████       ░ ▓ ░██      ░███████████████████████████</tspan>
+    <tspan x="18" dy="7.25">██████████████████████████████░      ███████▒         ░▓▓░      ▒████████████████████████████</tspan>
+    <tspan x="18" dy="7.25">█████████████████████████████████░   ░ ░                       ██████████████████████████████</tspan>
+    <tspan x="18" dy="7.25">█████████████████████████████████▓                  ░        ░███████████████████████████████</tspan>
+  </text>
+  <g font-family="Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13">
+    <text x="438" y="40" fill="#58a6ff" font-weight="700">vitoria@ayres</text>
+    <line x1="552" y1="36" x2="926" y2="36" stroke="#484f58"/>
+
+    <g fill="#79c0ff" font-weight="700">
+      <text x="438" y="76">OS:</text>
+      <text x="438" y="100">Role:</text>
+      <text x="438" y="124">Education:</text>
+      <text x="438" y="148">IDE:</text>
+    </g>
+    <g fill="#c9d1d9">
+      <text x="570" y="76">Fedora / Nobara Linux</text>
+      <text x="570" y="100">AI &amp; Machine Learning Developer</text>
+      <text x="570" y="124">B.S. Artificial Intelligence @ UNIMAR</text>
+      <text x="570" y="148">VS Code, Cursor, JetBrains</text>
+    </g>
+
+    <text x="438" y="190" fill="#ffa657" font-weight="700">AI &amp; ML:</text>
+    <text x="570" y="190" fill="#7ee787">LLMs, RAG, AI Agents, Computer Vision</text>
+
+    <g fill="#79c0ff" font-weight="700">
+      <text x="438" y="214">Languages:</text>
+      <text x="438" y="238">Frameworks:</text>
+      <text x="438" y="262">Tools &amp; Tech:</text>
+      <text x="438" y="286">Spoken:</text>
+    </g>
+    <g fill="#c9d1d9">
+      <text x="570" y="214">Python, C++, SQL, JavaScript</text>
+      <text x="570" y="238">LangChain, PyTorch, Pandas, NumPy</text>
+      <text x="570" y="262">Git, PostgreSQL, Docker, Linux</text>
+      <text x="570" y="286">Portuguese (Native), English (Advanced)</text>
+    </g>
+
+    <text x="438" y="330" fill="#ffa657" font-weight="700">Contact</text>
+    <line x1="506" y1="326" x2="926" y2="326" stroke="#484f58"/>
+    <g fill="#79c0ff" font-weight="700">
+      <text x="438" y="366">LinkedIn:</text>
+      <text x="438" y="394">GitHub:</text>
+    </g>
+    <g fill="#a5d6ff" text-decoration="underline">
+      <text x="570" y="366">linkedin.com/in/vitoriaayres</text>
+      <text x="570" y="394">github.com/vitoriaayres</text>
+    </g>
   </g>
 </svg>
