@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h3 align="center">⌨️ Stack</h3>
+<h3 align="center">STACK</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
 </p>
 
-<h3 align="center">📊 GitHub pulse</h3>
+<h3 align="center">GIT PULSES</h3>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.shion.dev/api?username=vitoriaayres&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="Vitoria's GitHub stats">
@@ -37,7 +37,7 @@
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitoriaayres&amp;bg_color=0d1117&amp;color=79c0ff&amp;line=58a6ff&amp;point=7ee787&amp;area=true&amp;hide_border=true" alt="Vitoria's contribution activity graph">
 </p>
 
-<h3 align="center">🎮 Off the clock</h3>
+<h3 align="center">YOU CAN ADD ME ALSO</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&amp;logo=steam&amp;logoColor=white" alt="Steam">
