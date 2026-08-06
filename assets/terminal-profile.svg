@@ -9,6 +9,9 @@
     </linearGradient>
   </defs>
   <rect x="0.5" y="0.5" width="959" height="439" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="-8" width="958" height="8" fill="#58a6ff" opacity="0.035">
+    <animate attributeName="y" from="-8" to="440" dur="7s" repeatCount="indefinite"/>
+  </rect>
   <line x1="410" y1="20" x2="410" y2="420" stroke="#30363d"/>
   <text xml:space="preserve" font-family="Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="5.35" fill="url(#portrait-tone)">
     <tspan x="18" y="39">████████████████████████                            ░    ░           ░       ████████████████</tspan>
@@ -65,6 +68,9 @@
   </text>
   <g font-family="Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13">
     <text x="438" y="40" fill="#58a6ff" font-weight="700">vitoria@ayres</text>
+    <rect x="542" y="29" width="2" height="13" fill="#58a6ff">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+    </rect>
     <line x1="552" y1="36" x2="926" y2="36" stroke="#484f58"/>
 
     <g fill="#79c0ff" font-weight="700">
