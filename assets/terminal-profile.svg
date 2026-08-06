@@ -87,18 +87,19 @@
     </g>
 
     <text x="438" y="190" fill="#ffa657" font-weight="700">AI &amp; ML:</text>
-    <text x="570" y="190" fill="#7ee787">LLMs, RAG, AI Agents, Computer Vision, Machine Learning and Data</text>
+    <text x="570" y="184" fill="#7ee787">LLMs, RAG, AI Agents, Computer Vision,</text>
+    <text x="570" y="200" fill="#7ee787">Machine Learning and Data</text>
 
     <g fill="#79c0ff" font-weight="700">
-      <text x="438" y="214">Languages:</text>
-      <text x="438" y="238">Frameworks:</text>
-      <text x="438" y="262">Tools &amp; Tech:</text>
+      <text x="438" y="220">Languages:</text>
+      <text x="438" y="242">Frameworks:</text>
+      <text x="438" y="264">Tools &amp; Tech:</text>
       <text x="438" y="286">Spoken:</text>
     </g>
     <g fill="#c9d1d9">
-      <text x="570" y="214">Python, C++, SQL, JavaScript</text>
-      <text x="570" y="238">LangChain, PyTorch, Pandas, NumPy</text>
-      <text x="570" y="262">Git, PostgreSQL, Docker, Linux, Azure</text>
+      <text x="570" y="220">Python, C++, SQL, JavaScript</text>
+      <text x="570" y="242">LangChain, PyTorch, Pandas, NumPy</text>
+      <text x="570" y="264">Git, PostgreSQL, Docker, Linux, Azure</text>
       <text x="570" y="286">Portuguese (Native), English (Advanced)</text>
     </g>
 
