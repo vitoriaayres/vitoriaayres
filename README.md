@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/vitoriaayres">
-    <img src="./assets/terminal-profile.svg?v=20260806-2" alt="Vitoria Ayres terminal profile" width="100%">
+    <img src="./assets/terminal-profile.svg?v=20260806-3" alt="Vitoria Ayres terminal profile" width="100%">
   </a>
 </p>
 
