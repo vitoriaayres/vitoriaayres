@@ -10,6 +10,17 @@
   </a>
 </p>
 
+<h3 align="center">FEATURED PROJECTS</h3>
+
+| Project | What it does | Stack |
+|---|---|---|
+| [ArtLens](https://github.com/vitoriaayres/artlents) | Recognizes artworks in first-person museum videos and explains them with an LLM | SAM 2, vector search, FastAPI |
+| [Odradek Terrain Scanner](https://github.com/vitoriaayres/odradek-terrain-scanner) | Classifies terrain walkability in hiking videos and renders a game-style HUD | Semantic segmentation, OpenCV |
+| [PM2.5 Forecast](https://github.com/vitoriaayres/estudoPM2_5.ipynb) | Hourly air pollution forecast and health-risk alerts for Brazilian cities | XGBoost, Optuna, SHAP |
+| [Estudos em R](https://github.com/vitoriaayres/estudos-r) | Causal inference, a neural network, Bayesian A/B testing and word embeddings from scratch | R |
+| [PharmaPredict](https://github.com/vitoriaayres/unimar_hospital) | Demand forecasting and stock management for hospital pharmacies | FastAPI, Next.js, LightGBM |
+| [UFO Sightings](https://github.com/vitoriaayres/ovni_statsto2008) | Exploratory analysis, clustering and classification of 80k UFO reports | Pandas, XGBoost, Folium |
+
 <h3 align="center">STACK</h3>
 
 <p align="center">
