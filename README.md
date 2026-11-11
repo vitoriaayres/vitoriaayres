@@ -51,7 +51,9 @@
 <h3 align="center">YOU CAN ADD ME ALSO</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&amp;logo=steam&amp;logoColor=white" alt="Steam">
+  <a href="https://steamcommunity.com/profiles/76561198827037103/">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&amp;logo=steam&amp;logoColor=white" alt="Steam">
+  </a>
 </p>
 
 <p align="center">
@@ -59,7 +61,5 @@
     <img src="https://komarev.com/ghpvc/?username=vitoriaayres&amp;style=for-the-badge&amp;color=58a6ff" alt="Profile views">
   </a>
 </p>
-
-
 
                                     
